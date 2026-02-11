@@ -1,0 +1,4 @@
+# Python bytecode (ไฟล์ที่เกิดจากการรัน)
+__pycache__/
+*.py[cod]
+*$py.class
